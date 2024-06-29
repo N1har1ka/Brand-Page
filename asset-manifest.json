@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/brand-page/static/css/main.4eba970d.css",
+    "main.js": "/brand-page/static/js/main.eae7c9bd.js",
+    "static/js/453.9d86eec2.chunk.js": "/brand-page/static/js/453.9d86eec2.chunk.js",
+    "static/media/shoe.png": "/brand-page/static/media/shoe.7fc342c8daa0c99c8d37.png",
+    "static/media/flipkart.png": "/brand-page/static/media/flipkart.d336ebfb2fbbf56057fb.png",
+    "static/media/amazon.png": "/brand-page/static/media/amazon.f542aad2b4a9037139dd.png",
+    "index.html": "/brand-page/index.html",
+    "main.4eba970d.css.map": "/brand-page/static/css/main.4eba970d.css.map",
+    "main.eae7c9bd.js.map": "/brand-page/static/js/main.eae7c9bd.js.map",
+    "453.9d86eec2.chunk.js.map": "/brand-page/static/js/453.9d86eec2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eba970d.css",
+    "static/js/main.eae7c9bd.js"
+  ]
+}
